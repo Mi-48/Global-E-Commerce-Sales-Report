@@ -38,3 +38,5 @@ Key visuals include:
 - Sales and Order Count by Region
 
 These insights help evaluate pricing strategies, logistics costs, and customer payment preferences.
+
+(Note: Due to file size limit, video files will not work in the repository and need to be viewed raw)
