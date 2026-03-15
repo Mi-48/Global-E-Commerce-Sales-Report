@@ -1,6 +1,6 @@
-Global-E-Commerce-Sales-Report
+Global-E-Commerce-Sales-Report\
 
-Project Overview
+Project Overview\
 This project presents an interactive Power BI dashboard analyzing global e-commerce sales performance. The report provides insights into sales trends, profitability, customer segments, regional performance, and operational drivers such as discounts, shipping costs, and payment methods.
 The goal of the project is to demonstrate how business intelligence tools can transform raw sales data into actionable insights for decision-making.
 
