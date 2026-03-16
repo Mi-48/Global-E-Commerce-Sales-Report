@@ -5,6 +5,10 @@ Project Overview
 This project presents an interactive Power BI dashboard analyzing global e-commerce sales performance. The report provides insights into sales trends, profitability, customer segments, regional performance, and operational drivers such as discounts, shipping costs, and payment methods.
 The goal of the project is to demonstrate how business intelligence tools can transform raw sales data into actionable insights for decision-making.
 
+Data
+
+The data has been obtained from (https://www.kaggle.com/datasets/muhammadaammartufail/global-e-commerce-sales-and-customer-data) and has been issued udner the lecense (https://creativecommons.org/licenses/by/4.0/). The dataset is synthetic and created specifically for the purpose of education and portfolio as mentioned by the author. 
+
 Report Overview:
 
 1. Executive Overview\
