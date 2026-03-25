@@ -15,11 +15,11 @@ Report Overview:
 Provides a high-level summary of business performance.
 
 Key insights include:
-- Total Sales\
-- Total Profit\
-- Profit Margin\
-- Monthly sales and profit trends\
-- Sales performance by product category\
+- Total Sales
+- Total Profit
+- Profit Margin
+- Monthly sales and profit trends
+- Sales performance by product category
 
 3. Performance Analysis\
 Analyzes how different regions, customer segments, and products contribute to overall performance.\
