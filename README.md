@@ -1,15 +1,15 @@
 # Case Study: Global E‑Commerce Sales Trends
 
-# Problem
+## Problem
 E‑commerce has grown rapidly worldwide, but companies struggle to understand sales performance across regions, categories, and time periods. Clear insights are needed to identify growth opportunities and optimize business strategies.
 
-# Approach
+## Approach
 - Analyzed global e‑commerce sales data using Power BI.
 - Built interactive dashboards with bar, line, and matrix visualizations.
 - Applied DAX measures to calculate total sales, profit margins, customer segments, and regional performance.
 - Explored time‑series trends and category‑wise comparisons to uncover hidden patterns.
 - 
-# Outcomes
+## Outcomes
 - Identified top‑performing regions and product categories driving global sales.
 - Highlighted seasonal spikes in demand and regional variations in profitability.
 - Revealed customer segment insights that can guide targeted marketing strategies.
@@ -54,9 +54,9 @@ E‑commerce has grown rapidly worldwide, but companies struggle to understand s
 ### Summary
 **Furniture and Technology drive the bulk of revenue, Clothing delivers the highest margins, and North America dominates regional sales. Consumer customers are the largest segment, while certain office supplies drag down profitability.**  
   
-# Impact
+## Impact
 This analysis demonstrates how business intelligence tools can transform raw sales data into actionable insights. The findings can help e‑commerce companies optimize inventory, pricing, and marketing strategies, ultimately improving profitability and customer satisfaction.
 
-# Data:
+## Data:
 The data has been obtained from (https://www.kaggle.com/datasets/muhammadaammartufail/global-e-commerce-sales-and-customer-data) and has been issued udner the lecense (https://creativecommons.org/licenses/by/4.0/). The dataset is synthetic and created specifically for the purpose of education and portfolio as mentioned by the author. 
 
